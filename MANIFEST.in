@@ -1,0 +1,3 @@
+include LICENSE README.md VALIDATION.md
+recursive-include examples *.py
+recursive-include tests *.py
